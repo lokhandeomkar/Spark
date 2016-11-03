@@ -1,3 +1,7 @@
+Counting task.
+
+-----------
+
 Running Instructions
 1. Go to the folder where Spark is installed 
 2. Use the following command
