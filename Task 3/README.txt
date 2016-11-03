@@ -1,5 +1,5 @@
 Impression-click rate is # of clicks divided by # of impressions (records with the "impression" field equal to 1)
-Lists the top 10 regions in terms of impression-click rate
+This task is to list the top 10 regions in terms of impression-click rate
 
 -----
 
