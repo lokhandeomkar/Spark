@@ -1,3 +1,8 @@
+Impression-click rate is # of clicks divided by # of impressions (records with the "impression" field equal to 1)
+Lists the top 10 regions in terms of impression-click rate
+
+-----
+
 Running Instructions
 1. Go to the folder where Spark is installed 
 2. Use the following command
