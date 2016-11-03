@@ -1,3 +1,14 @@
+This is a theta join task which is equivalent to the following SQL query 
+
+SELECT a.ymdh, a.user_id, b.user_id
+FROM   data a, data b
+WHERE  a.click = 1 AND b.click = 1
+AND    a.user_id != null AND b.user_id != null
+AND    a.user_id < b.user_id
+AND    abs(TIMESTAMPDIFF(SECOND, a.ymdh, b.ymdh)) < 2;
+
+--------------------
+
 Running Instructions
 1. Go to the folder where Spark is installed 
 2. Use the following command
