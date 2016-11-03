@@ -1,3 +1,8 @@
+Impression-click rate is # of clicks divided by # of impressions (records with the "impression" field equal to 1)
+A list of minute-of-the-days (integers in [0, 1440)) ordered by impression-click rate in descending order-- only for minutes with nonzero rates is the output.
+
+--------------------
+
 Running Instructions
 1. Go to the folder where Spark is installed 
 2. Use the following command
