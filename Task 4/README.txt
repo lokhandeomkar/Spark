@@ -1,5 +1,6 @@
 Impression-click rate is # of clicks divided by # of impressions (records with the "impression" field equal to 1)
-A list of minute-of-the-days (integers in [0, 1440)) ordered by impression-click rate in descending order-- only for minutes with nonzero rates is the output.
+A list of minute-of-the-days (integers in [0, 1440)) ordered by impression-click rate in descending order-- only for 
+minutes with nonzero rates is the output.
 
 --------------------
 
